@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0,Phim 1
+#EXTINF:-1,Phim 1
 http://sotrim.topphimmoi.org/raw/0a907cf3b226ea167f9302b03cd874a8/index.m3u8
+#EXTINF:-1,Bóng đá
+http://gg.gg/SN-90phut
